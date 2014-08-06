@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+#Supaplex level titles
+level.l?? text eol=lf
+
+#Supaplex level data
+levels.d?? binary
+*.sp       binary
+*.mpx      binary
