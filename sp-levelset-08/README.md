@@ -3,6 +3,8 @@
 ### Levelset changes
 2000-08-18 -- v1.0 -- Initial release
 
+2007-01-31 -- v1.0.1 -- [Martijn Mooji] Fix LST level strings for levels 100, 101 and 105
+
 ### Credits
 
 Level(s) | Author                    | Email                      | Notes
