@@ -5,6 +5,8 @@
 
 2007-01-31 -- v1.0.1 -- [Martijn Mooji] Fix LST level strings for levels 100, 101 and 105
 
+2007-02-02 -- v1.1 -- [Martijn Mooji] Add dashes / align titles in DAT for levels 068, 079, 080, 081, 082, 083 (safe)
+
 ### Credits
 
 Level(s) | Author                    | Email                      | Notes
