@@ -7,6 +7,8 @@
 
 2007-02-02 -- v1.1 -- [Martijn Mooji] Add dashes / align titles in DAT for levels 068, 079, 080, 081, 082, 083 (safe)
 
+2012-08-05 -- v1.1.1 -- [Timofey Vasenin] Sync LST level titles (levels 068, 079, 080, 081, 082, 083) to the changes in v1.1
+
 ### Credits
 
 Level(s) | Author                    | Email                      | Notes
