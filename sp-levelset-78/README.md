@@ -40,3 +40,7 @@ Minsoo's words, taken from an e-mail:
 - knowing Kim Minsoo - it will be something special again.)
 
 ```
+
+### Levelset 78, rendered by SupaShow
+
+![levelset 78](misc/supaplex-78-supashow.png)
