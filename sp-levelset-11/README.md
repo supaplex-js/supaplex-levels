@@ -2,6 +2,7 @@
 
 ### Levelset changes
 2000-09-30 -- v1.0 -- Initial release, 40 levels
+
 2007-01-30 -- v2.0 -- [Martijn Mooji]  -- Add levels 41-111
 
 ### Credits
