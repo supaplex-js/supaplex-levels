@@ -1,0 +1,16 @@
+## Supaplex Levelset 24
+
+### Levelset changes
+2007-01-31 -- v1.1 -- [Martijn Mooji] Initial release with fixed level 078 (added an exit + a chip).
+
+### Credits
+
+Level(s) | Author       | Email | Notes
+--------:|:------------ |:----- |:-----
+001-111  | Paulo Matoso |       |
+
+### Notes
+
+'''
+The level Nohomi III is not included, because the level Nohomi II is the same.
+'''
