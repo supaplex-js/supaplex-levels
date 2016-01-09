@@ -3,6 +3,8 @@
 ### Levelset changes
 2007-01-31 -- v1.1 -- [Martijn Mooji] Initial release with fixed level 078 (added an exit + a chip).
 
+2016-01-10 -- v1.2 -- [Timofey Vasenin] Fix SEVERE corruption in levels 073-091 (should be replayed).
+
 ### Credits
 
 Level(s) | Author       | Email | Notes
