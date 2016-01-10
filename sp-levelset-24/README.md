@@ -10,8 +10,8 @@
 ### Credits
 
 Level(s) | Author       | Email | Notes
---------:|:------------ |:----- |:-----
-001-111  | Paulo Matoso |       |
+--------:|:------------ |:----- |:--------------------------------
+001-111  | Paulo Matoso |       | Level 078 makes no sense at all!
 
 ### Notes
 
