@@ -1,9 +1,11 @@
 ## Supaplex Levelset 32
 
 ### Levelset changes
-2003-02-11 -- v1.0 -- Initial release (unsolvable).
+2003-02-11 -- v1.0 -- Initial release. (broken)
 
-2005-08-23 -- v1.1 -- Fix levels 071 and 082.
+2005-08-23 -- v1.1 -- Fix levels 071 and 082. (broken)
+
+2006-02-17 -- v1.2 -- Fix levels 071, 082, 105, 108.
 
 ### Credits
 
