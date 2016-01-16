@@ -7,7 +7,9 @@
 
 2006-02-17 -- v1.2 -- Fix levels 023 (update) and 061 (revert to v1.0!). (broken)
 
-2007-01-31 -- v2.0 -- [Martijn Mooji] Shift levels 001-075 to 037-111 and insert levels by Steve and Sage.
+2007-01-31 -- v2.0 -- [Martijn Mooji] Shift levels 001-075 to 037-111 and insert levels by Steve and Sage. (broken)
+
+2016-01-17 -- v2.1 -- [Timofey Vasenin] Fix port gravity settings for levels 025, 026, 029, 036.
 
 ### Credits
 
