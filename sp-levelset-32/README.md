@@ -5,7 +5,9 @@
 
 2005-08-23 -- v1.1 -- Fix levels 071 and 082. (broken)
 
-2006-02-17 -- v1.2 -- Fix levels 071, 082, 105, 108.
+2006-02-17 -- v1.2 -- Fix levels 071, 082, 105, 108. (broken)
+
+2007-02-01 -- v1.3 -- [Martijn Mooji] Fix LST for level 108, which was renamed in v1.2
 
 ### Credits
 
