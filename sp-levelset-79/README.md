@@ -9,7 +9,9 @@
 
 2007-01-31 -- v2.0 -- [Martijn Mooji] Shift levels 001-075 to 037-111 and insert levels by Steve and Sage. (broken)
 
-2016-01-17 -- v2.1 -- [Timofey Vasenin] Fix port gravity settings for levels 025, 026, 029, 036.
+2016-01-17 -- v2.1 -- [Timofey Vasenin] Fix port gravity settings for levels 025, 026, 029, 036. (broken)
+
+2016-01-17 -- v2.2 -- [Timofey Vasenin] Fix level 097 (revert to v1.1)
 
 ### Credits
 
