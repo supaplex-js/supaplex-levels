@@ -1,9 +1,11 @@
 ## Supaplex Levelset 14
 
 ### Levelset changes
-2007-01-31 -- v1.1 -- [Martijn Mooji] Initial release with fixed level 108 (added exit)
+2007-01-31 -- v1.1 -- [Martijn Mooji] Initial release with fixed level 108 (added exit). (broken)
 
-2020-01-13 -- v1.1.1 -- [Timofey Vasenin] Align title in DAT for level 009 (safe)
+2020-01-13 -- v1.1.1 -- [Timofey Vasenin] Align title in DAT for level 009 (safe). (broken)
+
+2020-01-13 -- v1.2 -- [Timofey Vasenin] Fix level 015 (add exit).
 
 ### Credits
 
