@@ -7,6 +7,8 @@
 
 2020-01-13 -- v1.2 -- [Timofey Vasenin] Fix level 015 (add exit).
 
+2020-01-13 -- v2.0 -- [Timofey Vasenin] Update levels 007, 012 (increase infotron count) and 013 as per reference solution (should be replayed).
+
 ### Credits
 
 Level(s) | Author                     | Email | Notes
