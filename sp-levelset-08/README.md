@@ -3,9 +3,9 @@
 ### Levelset changes
 2000-08-18 -- v1.0 -- Initial release
 
-2007-01-31 -- v1.0.1 -- [Martijn Mooji] Fix LST level strings for levels 100, 101 and 105
+2007-01-31 -- v1.0.1 -- [Martijn Mooij] Fix LST level strings for levels 100, 101 and 105
 
-2007-02-02 -- v1.1 -- [Martijn Mooji] Add dashes / align titles in DAT for levels 068, 079, 080, 081, 082, 083 (safe)
+2007-02-02 -- v1.1 -- [Martijn Mooij] Add dashes / align titles in DAT for levels 068, 079, 080, 081, 082, 083 (safe)
 
 2012-08-05 -- v1.1.1 -- [Timofey Vasenin] Sync LST level titles (levels 068, 079, 080, 081, 082, 083) to the changes in v1.1
 
