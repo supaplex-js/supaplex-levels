@@ -9,6 +9,6 @@
 
 ### Credits
 
-Level(s) | Author | Email | Notes
---------:|:------ |:----- |:-----
-001-111  | AlterT |       |
+Level(s) | Author | Email                          | Notes
+--------:|:------ |:------------------------------ |:-----
+001-111  | AlterT | `interesting.output@gmail.com` |
