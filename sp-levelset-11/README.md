@@ -11,6 +11,6 @@ Level(s) | Author            | Email               | Notes
 --------:|:----------------- |:------------------- |:-----
 001-040  | Nils-Johnny Friis |`n-jfriis@online.no` |
 041-107  | Geoo89            |`geoo89@gmail.com`   |
-    108  | Nadim Kobeissi    |`smogon350@yahoo.com`|
+108      | Nadim Kobeissi    |`smogon350@yahoo.com`|
 109-110  | Park-Sun          |`leonid@chollian.net`|
-    111  |?NoIdentity        |                     |
+111      |?NoIdentity        |                     |
